@@ -1,0 +1,781 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ActionHistory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgAbout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgGradient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgInputName.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgRotateSlider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ElementMaker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FocusForElement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FocusManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LineEditEX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuColor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuCombox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuRotate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NewFileView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PanePropertyTableView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGDocument.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementCircle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementClipPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementComment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementDataSection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementDefs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementDoctype.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementEllipse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementG.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementGradient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementLine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementLinearGradient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementPolygon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementPolyline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementRadialGradient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementRect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementSVG.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementScript.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementShape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementStop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementStyle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementStyleClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementStyleable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementSwitch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementSymbol.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementText.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementTextContent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementTspan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGElementUse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGGlobal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGLineF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGMatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGPathSeg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGPointF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGRectF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StringHash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TabWidgetEx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TableWidgetEx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolButtonColorMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolButtonComboxMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ActionHistory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="DlgAbout.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="DlgGradient.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="DlgInputName.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="DlgPattern.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="DlgRotateSlider.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="ElementMaker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FocusForElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FocusManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="LineEditEX.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MainFrame.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MenuColor.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MenuCombox.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MenuRotate.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="NewFileView.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="PanePropertyTableView.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="SVGDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGDocument.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementCircle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementClipPath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementComment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementDataSection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementDefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementDoctype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementEllipse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementG.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementGradient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementLine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementLinearGradient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementPath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementPolygon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementPolyline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementRadialGradient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementRect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementSVG.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementScript.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementShape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementStop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementStyle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementStyleClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementStyleable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementSwitch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementSymbol.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementTextContent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementTspan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGElementUse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGGlobal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGLineF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGPathSeg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGPointF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGRectF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="SVGView.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="StringHash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="TabWidgetEx.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="TableWidgetEx.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ToolButtonColorMenu.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ToolButtonComboxMenu.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <CustomBuild Include="GeneratedFiles\Debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    
+    
+    
+    
+    
+    
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="ui\UIAbout.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\UIGradient.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\UIInputName.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\UIPattern.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\UIRotateSlider.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="QtSVGEditor.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="images\adjustsize.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\alignbottom.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\alignleft.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\alignmidhor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\alignmidver.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\alignright.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\alignsameheight.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\alignsamesize.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\alignsamespacehor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\alignsamespacever.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\alignsamewidth.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\aligntop.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\arrow.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\arrowmatrix.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\back.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\closefile.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\defaultimage.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\delete.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawaaa.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawarc.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawcircle.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawcontinue.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawcopy.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawcursor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawellipse.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawimage.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawline.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawpath.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawpolygon.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawpolyline.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawrect.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawtext.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\drawtextv.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\dropdown.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\editcopy.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\editcut.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\editfile.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\editpaste.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\editredo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\editundo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\exportpdf.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\fast.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\filenew.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\filenewhtml.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\fileopen.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\fileopenhtml.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\fileprint.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\filesave.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\fillcolor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\gradienttype.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\graphicbase.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\graphicelement.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\group.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hand_close.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hand_open.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\htmlfile.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\iconlinetype.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\iconlinewidth.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\layerbottom.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\layerdown.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\layertop.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\layerup.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\linecolor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\linetype.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\linewidth.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\lock.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\lookfor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\move.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\movecursor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\newproperty.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\openfolder.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\pageset.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\pattern.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\refresh.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\rename.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\rotate.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\select.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\showgrid.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\showrule.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\svgfile.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\taggif.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\taggifselect.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\tagjpg.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\tagpng.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\tagsvg.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\tagtiff.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\textbold.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\textcolor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\textitalic.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\textunder.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\turnleft.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\turnoverhor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\turnoverver.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\turnright.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ungroup.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\unlock.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\zoomin.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\zoomout.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\zoomrestore.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
